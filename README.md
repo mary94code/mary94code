@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning html,css, javascript and ux design.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ilovethegazette@yandex.com
+- 📫 How to reach me at marymiklos@outlook.com
 
 <!---
 mary94code/mary94code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
