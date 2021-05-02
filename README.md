@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mary94code
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently learning html,css, javascript and ux design.
+- 🌱 I’m currently learning html,css, javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at marymiklos@outlook.com
 
